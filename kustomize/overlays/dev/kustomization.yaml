@@ -10,5 +10,5 @@ namePrefix: dev-
 
 images:
   - name: denizyoutube/nginx
-    newTag: v1.1.8
+    newTag: v1.1.7
 
